@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+**您正在访问的是由[RaymondzyLei](https://raymondzylei.me)从原站复刻的网页，解决了普通网络条件无法访问的问题，但是版本可能落后于[原站](https://ustcphyexam.github.io/)**
+
 欢迎各位科大同学访问这个主页。本页面由友站[USTC数学课程往年试卷](https://ustcmathexam.github.io/)改编而来，感谢数学学院的同学开创这个先例，我们物理人也要紧随其后。
 
 > ## 食用指南
